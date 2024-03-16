@@ -1,0 +1,19 @@
+name: pixelfont-image
+version: 0.1.0
+
+authors:
+  - Alex Clink <alexclink@gmail.com>
+
+targets:
+  pixelfont-image:
+    main: src/pixelfont-image.cr
+
+crystal: '>= 1.11.2'
+
+license: MIT
+
+dependencies:
+ png:
+   github: sleepinginsomniac/png
+ pixelfont:
+   github: sleepinginsomniac/pixelfont

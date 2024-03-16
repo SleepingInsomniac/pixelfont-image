@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  pixelfont:
+    git: https://github.com/sleepinginsomniac/pixelfont.git
+    version: 1.0.1+git.commit.e685a3978999e35787d82468cdf377c0338e7b59
+
+  png:
+    git: https://github.com/sleepinginsomniac/png.git
+    version: 0.2.3+git.commit.8f7086cb001654e4bd033e723a9dae8e0149eea9
+
